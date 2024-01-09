@@ -2,6 +2,14 @@
 
 Content Based Filtering Spotify Song Recommendation System using KMeans Clustering and Euclidean Distance.
 
+## Technologies
+- Python
+- Numpy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
 ## Objective 
 
 Create a song recommendation system that accepts a Spoitify URL from a user, extracts the song's audio features, and uses them to recommend 10 songs with similar audio features.
