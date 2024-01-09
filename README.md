@@ -1,6 +1,6 @@
 # Spotify Song Recommendation System (2022)
 
-Content Based Filtering Spotify Song Recommendation System using KMeans Clustering and Euclidean Distance.
+The following project is a content-based filtering Spotify song recommendation system using KMeans clustering and Euclidean distance.
 
 ## Technologies
 - Python
